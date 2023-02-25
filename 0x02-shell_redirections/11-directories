@@ -1,2 +1,2 @@
-iii#!/bin/bash
+#!/bin/bash
 find . -type d -not -name "." |wc -l
